@@ -1,0 +1,29 @@
+/* Custom Css this page*/
+h1{
+	color: red;
+	font-size: 20px;
+}
+.jumbotron{
+	background-color: #eee;
+	border-radius: 0;
+	text-align: center;
+}
+.mytitle{
+	border-radius: 2rem;
+	background-color: #b7b1b1!important 
+}
+/*u{
+	color: blue;
+	size: 2px;
+}
+u h4{
+	color: black;
+}
+hr{
+	color: blue;
+}*/
+.package-title, .faq{
+	display:inline-block;
+	border-bottom: 3px dotted blue;
+	padding-bottom: .5rem; 
+}

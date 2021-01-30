@@ -1,0 +1,13 @@
+Login Process
+....................
+=>accept input data
+=>validation
+=>auth(e/p ==e/p)
+=>create session()
+
+
+
+Logout
+...........
+=>User Logout(delete session)
+=>session expired(time)
